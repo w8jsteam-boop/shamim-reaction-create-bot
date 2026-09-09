@@ -1,0 +1,6 @@
+shamim-reaction-create-bot/
+├── package.json
+├── server.js
+├── .gitignore
+├── .env.example
+└── README.md
